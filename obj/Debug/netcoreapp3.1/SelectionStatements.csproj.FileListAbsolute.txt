@@ -1,0 +1,12 @@
+/Users/user/repos/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.deps.json
+/Users/user/repos/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.runtimeconfig.json
+/Users/user/repos/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.runtimeconfig.dev.json
+/Users/user/repos/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.dll
+/Users/user/repos/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.pdb
+/Users/user/repos/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.csprojAssemblyReference.cache
+/Users/user/repos/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.AssemblyInfoInputs.cache
+/Users/user/repos/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.AssemblyInfo.cs
+/Users/user/repos/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.csproj.CoreCompileInputs.cache
+/Users/user/repos/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.dll
+/Users/user/repos/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.pdb
+/Users/user/repos/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.genruntimeconfig.cache
